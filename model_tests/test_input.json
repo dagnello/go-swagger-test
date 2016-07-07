@@ -1,0 +1,19 @@
+{
+  "name": "dev-mysql",
+  "version": "5.5.0",
+  "vendor": "HPE",
+  "parameters": [
+    {
+      "name": "MY_PARAMETER",
+      "generator":
+        {
+          "id": "id_1",
+          "type": "Type1",
+          "generate":
+            {
+             "type": "Type1"
+            }
+        }
+    }
+  ]
+}
